@@ -30,6 +30,7 @@ public class Epifanio_MethodActivity {
         System.out.println("Subtraction : "+calculate (10 , 5, '-'));
         System.out.println("Multiplication : "+calculate (20 , 2, '*'));
         System.out.println("Divition : "+calculate (20 , 3, '/'));
+        Ststem.out.println("New Input";)
     }
     
 }
